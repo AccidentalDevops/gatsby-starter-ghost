@@ -1,10 +1,10 @@
 {
-  "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
-  },
-  "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
-  }
+    "development": {
+        "apiUrl": "https://testghost.pyne.work",
+        "contentApiKey": "7b9a22bc3e6bfda2803de0c3d2"
+    },
+    "production": {
+        "apiUrl": "https://testghost.pyne.work",
+        "contentApiKey": "7b9a22bc3e6bfda2803de0c3d2"
+    }
 }
